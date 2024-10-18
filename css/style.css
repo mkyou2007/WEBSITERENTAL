@@ -17,7 +17,7 @@ body {
 
 /* navigation bar style */
 .NAVIGATION-div {
-    background: transparent;
+  background-color: #fffbfb;
     width: 100%;
     display: flex;
     justify-content: space-between;
